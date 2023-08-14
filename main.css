@@ -4,7 +4,7 @@ body {
     font-family: 'Helvetica Neue', sans-serif;
     background-color: #f5f5f5;
     color: #333;
-    font-size: 16px; /* Aumentando o tamanho da fonte geral */
+    font-size: 16px; 
 }
 
 .container {
@@ -40,10 +40,10 @@ textarea {
     margin-bottom: 15px;
     resize: none;
     box-sizing: border-box;
-    font-size: 16px; /* Aumentando o tamanho da fonte dos campos de entrada */
+    font-size: 16px; 
 }
 
-/* Aumentando a altura do textarea para o endereço completo */
+
 textarea#endereco {
     height: 100px;
 }
